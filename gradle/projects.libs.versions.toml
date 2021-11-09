@@ -1,8 +1,8 @@
 [versions]
-arrow = "1.0.0"
-arrowGradleConfig = "0.4.1"
+arrow = "1.0.1"
+arrowGradleConfig = "0.5.1"
 assertj = "3.21.0"
-classgraph = "4.8.129"
+classgraph = "4.8.131"
 dokka = "1.5.31"
 intellijOpenApi = "7.0.3"
 javaAssist = "3.28.0-GA"
